@@ -2,4 +2,5 @@
 Author: Kierre Anderson
 TOP Landing Page
 
-Image from Studio Ghibli.
+Filed image from Studio Ghibli.
+Torchic image from Pokemon.com .
