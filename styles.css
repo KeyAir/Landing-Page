@@ -1,1 +1,8 @@
-
+body{
+    background-color: gray;
+    /* min-height: 100vh; */
+}
+.header img{
+    width: 50%;
+    height: 50%;
+}
