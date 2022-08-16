@@ -45,7 +45,7 @@ a:hover, a:visited, a:link, a:active{
     justify-content: center;
     /* flex-direction: column; */
 }
-.header-1 p{
+.header-container p{
     max-width: 380px;
     margin: 5px;
 }
