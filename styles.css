@@ -112,3 +112,50 @@ text-align: center;
     flex-direction: column;
     align-items: center;
 }
+
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+.btn-content{
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    padding: 50px;
+    margin: 0;
+    width: 50%;
+}
+.btn-item1 p{
+    margin: 0;
+    color: white;
+}
+.btn-title{
+    font-weight: bolder;
+    font-size: 18px;
+    border-color: white;
+    border-width: 5px;
+}
+.button{
+    background-color: #3882F6;
+    padding: 10px;
+    color: white;
+    width: 100px;
+    border-radius: 25px;
+}
+
+.footer{
+    display: flex;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    background-color: #1F2937;
+    color:#E5E7EB;
+    justify-content: center;
+}
+
+.footer-container{
+    align-items: center;
+}
+
